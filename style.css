@@ -40,4 +40,9 @@ body {
   button:hover {
     background-color: #0056b3;
   }
+
+  #bid {
+    padding: 5px;
+    width: 150px;
+  }
   
